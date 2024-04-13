@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={hawaii1468})](https://solved.ac/{hawaii1468})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hawaii1468)](https://solved.ac/hawaii1468)
 
 
 <!--
