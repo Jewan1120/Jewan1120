@@ -1,6 +1,10 @@
-### Hi there 👋
+<h3 align="center"> Hi there 👋</h3>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hawaii1468)](https://solved.ac/hawaii1468)
+<div align="center">
+  
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jewan)](https://solved.ac/jewan)
+</div>
+
 
 
 <!--
